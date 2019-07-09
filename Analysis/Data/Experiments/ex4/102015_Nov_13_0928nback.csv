@@ -1,0 +1,10 @@
+response,index,first_occurence
+f_a,1,1
+f_a,7,7
+hit,21,11
+hit,52,22
+hit,92,31
+hit,179,149
+hit,195,185
+miss,197,137
+f_a,210,210
